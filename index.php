@@ -76,7 +76,7 @@ include("template/header.php");
 							<div class="item">
 								<div class="cart">
 									<a href="detail.php">
-										<img class="cart-img" src="Assets/images/T-shirt1.png">
+										<img class="cart-img" src="https://www.lacoste.com/us/lacoste/men/clothing/t-shirts/men-s-striped-crewneck-cotton-t-shirt/TH8560-51.html?color=S7T">
 									</a>
 									<div class="cart-title">Men's Striped-Crewneck T-Shirt</div>
 									<div class="price">
@@ -93,7 +93,7 @@ include("template/header.php");
 							<div class="item">
 								<div class="cart">
 									<a href="detail.php">
-										<img class="cart-img" src="Assets/images/T-shirt2.png">
+										<img class="cart-img" src="https://www.lacoste.com/us/lacoste/men/clothing/t-shirts/men-s-graphic-croc-t-shirt/TH6386-51.html?color=001">
 									</a>
 									<div class="cart-title">Men's Graphic Croc T-shirt</div>
 									<div class="price">
@@ -110,7 +110,7 @@ include("template/header.php");
 							<div class="item">
 								<div class="cart">
 									<a href="detail.php">
-										<img class="cart-img" src="Assets/images/T-shirt3.png">
+										<img class="cart-img" src="https://www.lacoste.com/us/lacoste/men/clothing/t-shirts/men-s-crewneck-color-blocked-thermoregulating-pique-t-shirt/TH8551-51.html?color=225">
 									</a>
 									<div class="cart-title">Men's Piqué Crewneck T-Shirt</div>
 									<div class="price">
@@ -127,7 +127,7 @@ include("template/header.php");
 							<div class="item">
 								<div class="cart">
 									<a href="detail.php">
-										<img class="cart-img" src="Assets/images/T-shirt4.png">
+										<img class="cart-img" src="https://www.lacoste.com/us/lacoste/men/clothing/t-shirts/men-s-crewneck-checkered-logo-cotton-t-shirt/TH8614-51.html?color=328">
 									</a>
 									<div class="cart-title">Men's Crewneck Checkered T-Shirt</div>
 									<div class="price">
@@ -157,7 +157,7 @@ include("template/header.php");
 									<div class="item">
 										<div class="cart">
 											<a href="detail.php">
-												<img class="cart-img" src="assets/images/Sweater1.png">
+												<img class="cart-img" src="https://www.lacoste.com/us/lacoste/men/clothing/sweaters/men-s-v-neck-caviar-pique-accent-cotton-jersey-sweater/AH4087-51.html?color=N72">
 											</a>
 											<div class="cart-title">Men's V-neck Caviar Piqué Sweater</div>
 											<div class="price">
@@ -175,7 +175,7 @@ include("template/header.php");
 									<div class="item">
 										<div class="cart">
 											<a href="detail.php">
-												<img class="cart-img" src="assets/images/Sweater2.png">
+												<img class="cart-img" src="https://www.lacoste.com/us/lacoste/men/clothing/sweaters/men-s-v-neck-wool-jersey-sweater/AH2987-51.html?color=031">
 											</a>
 											<div class="cart-title">Men's Wool And Alpaca Sweater</div>
 											<div class="price">
@@ -192,7 +192,7 @@ include("template/header.php");
 									<div class="item">
 										<div class="cart">
 											<a href="detail.php">
-												<img class="cart-img" src="assets/images/Sweater3.png">
+												<img class="cart-img" src="https://www.lacoste.com/us/lacoste/men/clothing/sweaters/men-s-crew-neck-cotton-sweater/AH3390-51.html?color=883">
 											</a>
 											<div class="cart-title">Men's Cotton Blend Sweater</div>
 											<div class="price">
@@ -210,7 +210,7 @@ include("template/header.php");
 									<div class="item">
 										<div class="cart">
 											<a href="detail.php">
-												<img class="cart-img" src="assets/images/Sweater4.png">
+												<img class="cart-img" src="https://www.lacoste.com/us/lacoste/men/clothing/sweaters/men-s-3d-lettering-crewneck-cotton-blend-sweater/AH7957-51.html?color=CCA">
 											</a>
 											<div class="cart-title">Men's 3D-Lettering Sweater</div>
 											<div class="price">
@@ -239,7 +239,7 @@ include("template/header.php");
 									<div class="item">
 										<div class="cart">
 											<a href="detail.php">
-												<img class="cart-img" src="assets/images/Sweatshirt1.png">
+												<img class="cart-img" src="assets/images/https://www.lacoste.com/us/lacoste/men/clothing/sweatshirts/men-s-sport-tennis-jacket/SH3550-51.html?color=LAW">
 											</a>
 											<div class="cart-title">Men's SPORT Tennis Fleece Zip Up</div>
 											<div class="price">
@@ -257,7 +257,7 @@ include("template/header.php");
 									<div class="item">
 										<div class="cart">
 											<a href="detail.php">
-												<img class="cart-img" src="assets/images/Sweatshirt2.png">
+												<img class="cart-img" src="https://www.lacoste.com/us/lacoste/men/clothing/sweatshirts/men-s-hooded-fleece-sweatshirt/SH4365-51.html?color=522">
 											</a>
 											<div class="cart-title">Men's Hooded Fleece Sweatshirt</div>
 											<div class="price">
@@ -274,7 +274,7 @@ include("template/header.php");
 									<div class="item">
 										<div class="cart">
 											<a href="detail.php">
-												<img class="cart-img" src="assets/images/Sweatshirt3.png">
+												<img class="cart-img" src="https://www.lacoste.com/us/lacoste/men/clothing/sweatshirts/men-s-sport-contrast-sleeve-fleece-varsity-jacket/SH8667-51.html?color=29T">
 											</a>
 											<div class="cart-title">Men's Standup-Collar Sweatshirt</div>
 											<div class="price">
@@ -292,7 +292,7 @@ include("template/header.php");
 									<div class="item">
 										<div class="cart">
 											<a href="detail.php">
-												<img class="cart-img" src="assets/images/Sweatshirt4.png">
+												<img class="cart-img" src="https://www.lacoste.com/us/lacoste/men/clothing/sweatshirts/men-s-sport-novak-djokovic-croc-logo-sweatshirt/SH8613-51.html?color=1YE">
 											</a>
 											<div class="cart-title">Men's Zip Fleece Sweatshirt</div>
 											<div class="price">
